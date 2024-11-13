@@ -101,8 +101,8 @@
 |Med-Flamingo: a Multimodal Medical Few-shot Learner|[PDF](https://proceedings.mlr.press/v225/moor23a.html)|[Code](https://github.com/snap-stanford/med-flamingo)|
 |RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training|[PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3611830)|[Code](https://github.com/GanjinZero/RAMM)|
 |Multi-modal Adapter for Medical Vision-and-Language Learning|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-45673-2_39)|-|
-|Parameter-Efficient Transfer Learning for Medical Visual Question Answering|[PDF](https://ieeexplore.ieee.org/abstract/document/10256025/)|[-|
-|Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering|[PDF](https://arxiv.org/abs/2404.16192)|[Code]()|
+|Parameter-Efficient Transfer Learning for Medical Visual Question Answering|[PDF](https://ieeexplore.ieee.org/abstract/document/10256025/)|-|
+|Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering|[PDF](https://arxiv.org/abs/2404.16192)|-|
 |Vision-Language Transformer for Interpretable Pathology Visual Question Answering|[PDF](https://ieeexplore.ieee.org/abstract/document/9745795/)|-|
 |Surgical-vqa: Visual question answering in surgical scenes using transformer|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_4)|[Code](https://github.com/lalithjets/Surgical_VQA.git)|
 |LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation|[PDF](https://arxiv.org/abs/2305.11490)|[Code](https://github.com/hyn2028/llm-cxr)|
@@ -118,13 +118,13 @@
 
 |Paper|PDF|Code|
 |---|---|---|
-|Weakly supervised one-stage vision and language disease detection using large scale pneumonia and pneumothorax studies|[PDF]()|[Code]()|
-|Zero-Shot Medical Phrase Grounding with Off-the-shelf Diffusion Models|[PDF]()|[Code]()|
-|Multiple Prompt Fusion for Zero-Shot Lesion Detection Using Vision-Language Models|[PDF]()|[Code]()|
-|Zero-Shot Nuclei Detection via Visual-Language Pre-trained Models|[PDF]()|[Code]()|
-|Medical image understanding with pretrained vision language models: A comprehensive study|[PDF]()|[Code]()|
-|MediCLIP: Adapting CLIP for Few-shot Medical Image Anomaly Detection|[PDF]()|[Code]()|
-|CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios|[PDF]()|[Code]()|
+|Weakly supervised one-stage vision and language disease detection using large scale pneumonia and pneumothorax studies|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_5)|[Code](https://github.com/leotam/MIMIC-CXR-annotations)|
+|Zero-Shot Medical Phrase Grounding with Off-the-shelf Diffusion Models|[PDF](https://arxiv.org/abs/2404.12920)|-|
+|Multiple Prompt Fusion for Zero-Shot Lesion Detection Using Vision-Language Models|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_28)|[Code](https://github.com/vios-s)|
+|Zero-Shot Nuclei Detection via Visual-Language Pre-trained Models|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_67)|[Code](https://github.com/wuyongjianCODE/VLPMNuD)|
+|Medical image understanding with pretrained vision language models: A comprehensive study|[PDF](https://arxiv.org/abs/2209.15517)|[Code](https://github.com/MembrLab/MIU-VL)|
+|MediCLIP: Adapting CLIP for Few-shot Medical Image Anomaly Detection|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_43)|[Code](https://github.com/cnulab/MediCLIP)|
+|CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios|[PDF](https://arxiv.org/abs/2404.15272)|-|
 
 ## KD in Medical image generation
 
