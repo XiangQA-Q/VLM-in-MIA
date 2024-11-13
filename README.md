@@ -58,39 +58,39 @@
 
 |Paper|PDF|Code|
 |---|---|---|
-|AERMNet: Attention-enhanced relational memory network for medical image report generation|[PDF]()|[Code]()|
-|Kdtnet: medical image report generation via knowledge-driven transformer|[PDF]()|[Code]()|
-|RepsNet: Combining Vision with Language for Automated Medical Reports|[PDF]()|[Code]()|
-|Radiology Report Generation via Visual Recalibration and Context Gating-Aware|[PDF]()|[Code]()|
-|Visual-Textual Attentive Semantic Consistency for Medical Report Generation|[PDF]()|[Code]()|
-|CGFTrans: Cross-Modal Global Feature Fusion Transformer for Medical Report Generation|[PDF]()|[Code]()|
-|CXR-IRGen: An Integrated Vision and Language Model for the Generation of Clinically Accurate Chest X-Ray Image-Report Pairs|[PDF]()|[Code]()|
-|Token-Mixer: Bind Image and Text in One Embedding Space for Medical Image Reporting|[PDF]()|[Code]()|
-|PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation|[PDF]()|[Code]()|
-|A label information fused medical image report generation framework|[PDF]()|[Code]()|
-|Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation|[PDF]()|[Code]()|
-|Dia-LLaMA: Towards Large Language Model-driven CT Report Generation|[PDF]()|[Code]()|
-|TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Model|[PDF]()|[Code]()|
-|An Organ-aware Diagnosis Framework for Radiology Report Generation|[PDF]()|[Code]()|
-|MMTN: Multi-Modal Memory Transformer Network for Image-Report Consistent Medical Report Generation|[PDF]()|[Code]()|
-|Non-local Attention Improves Description Generation for Retinal Images|[PDF]()|[Code]()|
-|Enhancing the vision–language foundation model with key semantic knowledge-emphasized report refinement|[PDF]()|[Code]()|
-|Vision-language model for generating textual descriptions from clinical images: model development and validation study|[PDF]()|[Code]()|
-|IMITATE: Clinical Prior Guided Hierarchical Vision-Language Pre-training|[PDF]()|[Code]()|
-|METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens|[PDF]()|[Code]()|
-|Prior Guided Transformer for Accurate Radiology Reports Generation|[PDF]()|[Code]()|
-|Multimodal image-text matching improves retrieval-based chest x-ray report generation|[PDF]()|[Code]()|
-|PhraseAug: An Augmented Medical Report Generation Model with Phrasebook|[PDF]()|[Code]()|
-|Fine-grained image-text alignment in medical imaging enables cyclic image-report generation|[PDF]()|[Code]()|
-|FgKF: Fine-Grained Knowledge Fusion for Radiology Report Generation|[PDF]()|[Code]()|
-|Multi-Grained Radiology Report Generation With Sentence-Level Image-Language Contrastive Learning|[PDF]()|[Code]()|
-|AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation|[PDF]()|[Code]()|
-|Improving radiology report generation with multi-grained abnormality prediction|[PDF]()|[Code]()|
-|Self adaptive global-local feature enhancement for radiology report generation|[PDF]()|[Code]()|
-|Interactive and Explainable Region-guided Radiology Report Generation|[PDF]()|[Code]()|
-|Complex Organ Mask Guided Radiology Report Generation|[PDF]()|[Code]()|
-|Attribute Prototype-guided Iterative Scene Graph for Explainable Radiology Report Generation|[PDF]()|[Code]()|
-|Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation|[PDF]()|[Code]()|
+|AERMNet: Attention-enhanced relational memory network for medical image report generation|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0169260723006454)|[Code](https://github.com/llttxx/AERMNET)|
+|Kdtnet: medical image report generation via knowledge-driven transformer|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_8)|-|
+|RepsNet: Combining Vision with Language for Automated Medical Reports|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_68)|[Code](https://sites.google.com/view/repsnet)|
+|Radiology Report Generation via Visual Recalibration and Context Gating-Aware|[PDF](https://link.springer.com/chapter/10.1007/978-981-99-7074-2_9)|[Code](https://github.com/Eleanorhxd/VRCG)|
+|Visual-Textual Attentive Semantic Consistency for Medical Report Generation|[PDF](http://openaccess.thecvf.com/content/ICCV2021/html/Zhou_Visual-Textual_Attentive_Semantic_Consistency_for_Medical_Report_Generation_ICCV_2021_paper.html)|-|
+|CGFTrans: Cross-Modal Global Feature Fusion Transformer for Medical Report Generation|[PDF](https://ieeexplore.ieee.org/abstract/document/10557585/)|[Code](https://github.com/LimingXuM3/CGFTrans)|
+|CXR-IRGen: An Integrated Vision and Language Model for the Generation of Clinically Accurate Chest X-Ray Image-Report Pairs|[PDF](https://openaccess.thecvf.com/content/WACV2024/html/Shentu_CXR-IRGen_An_Integrated_Vision_and_Language_Model_for_the_Generation_WACV_2024_paper.html)|[Code](https://github.com/junjie-shentu/CXR-IRGen)|
+|Token-Mixer: Bind Image and Text in One Embedding Space for Medical Image Reporting|[PDF](https://ieeexplore.ieee.org/abstract/document/10552817)|[Code](https://github.com/yangyan22/Token-Mixer)|
+|PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation|[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28038)|-|
+|A label information fused medical image report generation framework|[PDF](https://www.sciencedirect.com/science/article/pii/S0933365724000654)|[Code](https://github.com/watersunhznu/LIFMRG)|
+|Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation|[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20204)|[Code](https://github.com/fxsjy/jieba)|
+|Dia-LLaMA: Towards Large Language Model-driven CT Report Generation|[PDF](https://arxiv.org/abs/2403.16386)|-|
+|TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Model|[PDF](https://arxiv.org/abs/2408.12141)|-|
+|An Organ-aware Diagnosis Framework for Radiology Report Generation|[PDF](https://ieeexplore.ieee.org/abstract/document/10579857/)|-|
+|MMTN: Multi-Modal Memory Transformer Network for Image-Report Consistent Medical Report Generation|[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25100)|-|
+|Non-local Attention Improves Description Generation for Retinal Images|[PDF](https://openaccess.thecvf.com/content/WACV2022/html/Huang_Non-Local_Attention_Improves_Description_Generation_for_Retinal_Images_WACV_2022_paper.html)|[Code](https://github.com/Jhhuangkay/Non-local-Attention-Improves-Description-Generation-for-Retinal-Images)|
+|Enhancing the vision–language foundation model with key semantic knowledge-emphasized report refinement|[PDF](https://arxiv.org/abs/2401.11421)|-|
+|Vision-language model for generating textual descriptions from clinical images: model development and validation study|[PDF](https://formative.jmir.org/2024/1/e32690)|-|
+|IMITATE: Clinical Prior Guided Hierarchical Vision-Language Pre-training|[PDF](https://ieeexplore.ieee.org/abstract/document/10646593/)|-|
+|METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens|[PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.html)|-|
+|Prior Guided Transformer for Accurate Radiology Reports Generation|[PDF](https://ieeexplore.ieee.org/abstract/document/9852309/)|-|
+|Multimodal image-text matching improves retrieval-based chest x-ray report generation|[PDF](https://proceedings.mlr.press/v227/jeong24a.html)|[Code](https://github.com/rajpurkarlab/X-REM)|
+|PhraseAug: An Augmented Medical Report Generation Model with Phrasebook|[PDF](https://ieeexplore.ieee.org/abstract/document/10560051/)|[-|
+|Fine-grained image-text alignment in medical imaging enables cyclic image-report generation|[PDF](https://arxiv.org/abs/2312.08078)|-|
+|FgKF: Fine-Grained Knowledge Fusion for Radiology Report Generation|[PDF](https://link.springer.com/chapter/10.1007/978-981-99-9864-7_16)|-|
+|Multi-Grained Radiology Report Generation With Sentence-Level Image-Language Contrastive Learning|[PDF](https://ieeexplore.ieee.org/abstract/document/10458706/)|-|
+|AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_7)|-|
+|Improving radiology report generation with multi-grained abnormality prediction|[PDF](https://www.sciencedirect.com/science/article/pii/S0925231224008932)|[-|
+|Self adaptive global-local feature enhancement for radiology report generation|[PDF](https://ieeexplore.ieee.org/abstract/document/10222405/)|-|
+|Interactive and Explainable Region-guided Radiology Report Generation|[PDF](http://openaccess.thecvf.com/content/CVPR2023/html/Tanida_Interactive_and_Explainable_Region-Guided_Radiology_Report_Generation_CVPR_2023_paper.html)|[Code](https://github.com/ttanida/rgrg)|
+|Complex Organ Mask Guided Radiology Report Generation|[PDF](https://openaccess.thecvf.com/content/WACV2024/html/Gu_Complex_Organ_Mask_Guided_Radiology_Report_Generation_WACV_2024_paper.html)|[Code](https://github.com/GaryGuTC/COMG_model)|
+|Attribute Prototype-guided Iterative Scene Graph for Explainable Radiology Report Generation|[PDF](https://ieeexplore.ieee.org/abstract/document/10587279/)|[Code](https://github.com/giantke/AP-ISG)|
+|Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation|[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Bu_Instance-level_Expert_Knowledge_and_Aggregate_Discriminative_Attention_for_Radiology_Report_CVPR_2024_paper.html)|[Code](https://github.com/hnjzbss/EKAGen)|
 
 
 ## KD in Medical image VQA
