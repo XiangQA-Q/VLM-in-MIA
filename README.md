@@ -85,7 +85,7 @@
 |FgKF: Fine-Grained Knowledge Fusion for Radiology Report Generation|[PDF](https://link.springer.com/chapter/10.1007/978-981-99-9864-7_16)|-|
 |Multi-Grained Radiology Report Generation With Sentence-Level Image-Language Contrastive Learning|[PDF](https://ieeexplore.ieee.org/abstract/document/10458706/)|-|
 |AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation|[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_7)|-|
-|Improving radiology report generation with multi-grained abnormality prediction|[PDF](https://www.sciencedirect.com/science/article/pii/S0925231224008932)|[-|
+|Improving radiology report generation with multi-grained abnormality prediction|[PDF](https://www.sciencedirect.com/science/article/pii/S0925231224008932)|-|
 |Self adaptive global-local feature enhancement for radiology report generation|[PDF](https://ieeexplore.ieee.org/abstract/document/10222405/)|-|
 |Interactive and Explainable Region-guided Radiology Report Generation|[PDF](http://openaccess.thecvf.com/content/CVPR2023/html/Tanida_Interactive_and_Explainable_Region-Guided_Radiology_Report_Generation_CVPR_2023_paper.html)|[Code](https://github.com/ttanida/rgrg)|
 |Complex Organ Mask Guided Radiology Report Generation|[PDF](https://openaccess.thecvf.com/content/WACV2024/html/Gu_Complex_Organ_Mask_Guided_Radiology_Report_Generation_WACV_2024_paper.html)|[Code](https://github.com/GaryGuTC/COMG_model)|
