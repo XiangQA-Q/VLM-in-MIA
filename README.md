@@ -80,7 +80,7 @@
 |METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens|[PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.html)|-|
 |Prior Guided Transformer for Accurate Radiology Reports Generation|[PDF](https://ieeexplore.ieee.org/abstract/document/9852309/)|-|
 |Multimodal image-text matching improves retrieval-based chest x-ray report generation|[PDF](https://proceedings.mlr.press/v227/jeong24a.html)|[Code](https://github.com/rajpurkarlab/X-REM)|
-|PhraseAug: An Augmented Medical Report Generation Model with Phrasebook|[PDF](https://ieeexplore.ieee.org/abstract/document/10560051/)|[-|
+|PhraseAug: An Augmented Medical Report Generation Model with Phrasebook|[PDF](https://ieeexplore.ieee.org/abstract/document/10560051/)|-|
 |Fine-grained image-text alignment in medical imaging enables cyclic image-report generation|[PDF](https://arxiv.org/abs/2312.08078)|-|
 |FgKF: Fine-Grained Knowledge Fusion for Radiology Report Generation|[PDF](https://link.springer.com/chapter/10.1007/978-981-99-9864-7_16)|-|
 |Multi-Grained Radiology Report Generation With Sentence-Level Image-Language Contrastive Learning|[PDF](https://ieeexplore.ieee.org/abstract/document/10458706/)|-|
@@ -97,22 +97,22 @@
 
 |Paper|PDF|Code|
 |---|---|---|
-|Masked vision and language pre-training with unimodal and multimodal contrastive losses for medical visual question answering|[PDF]()|[Code]()|
-|Med-Flamingo: a Multimodal Medical Few-shot Learner|[PDF]()|[Code]()|
-|RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training|[PDF]()|[Code]()|
-|Multi-modal Adapter for Medical Vision-and-Language Learning|[PDF]()|[Code]()|
-|Parameter-Efficient Transfer Learning for Medical Visual Question Answering|[PDF]()|[Code]()|
-|Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering|[PDF]()|[Code]()|
-|Vision-Language Transformer for Interpretable Pathology Visual Question Answering|[PDF]()|[Code]()|
-|Surgical-vqa: Visual question answering in surgical scenes using transformer|[PDF]()|[Code]()|
-|LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation|[PDF]()|[Code]()|
-|LLM-Assisted Multi-Teacher Continual Learning for Surgical Visual Question Answering|[PDF]()|[Code]()|
-|MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts|[PDF]()|[Code]()|
-|Open-ended medical visual question answering through prefix tuning of language models|[PDF]()|[Code]()|
-|Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering|[PDF]()|[Code]()|
-|An Effective Pre-trained Visual Encoder for Medical Visual Question Answering|[PDF]()|[Code]()|
-|Interpretable medical image visual question answering via multi-modal relationship graph learning|[PDF]()|[Code]()|
-|Medical knowledge-based network for Patient-oriented Visual Question Answering|[PDF]()|[Code]()|
+|Masked vision and language pre-training with unimodal and multimodal contrastive losses for medical visual question answering|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_36)|[Code](https://github.com/pengfeiliHEU/MUMC)|
+|Med-Flamingo: a Multimodal Medical Few-shot Learner|[PDF](https://proceedings.mlr.press/v225/moor23a.html)|[Code](https://github.com/snap-stanford/med-flamingo)|
+|RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training|[PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3611830)|[Code](https://github.com/GanjinZero/RAMM)|
+|Multi-modal Adapter for Medical Vision-and-Language Learning|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-45673-2_39)|-|
+|Parameter-Efficient Transfer Learning for Medical Visual Question Answering|[PDF](https://ieeexplore.ieee.org/abstract/document/10256025/)|[-|
+|Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering|[PDF](https://arxiv.org/abs/2404.16192)|[Code]()|
+|Vision-Language Transformer for Interpretable Pathology Visual Question Answering|[PDF](https://ieeexplore.ieee.org/abstract/document/9745795/)|-|
+|Surgical-vqa: Visual question answering in surgical scenes using transformer|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_4)|[Code](https://github.com/lalithjets/Surgical_VQA.git)|
+|LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation|[PDF](https://arxiv.org/abs/2305.11490)|[Code](https://github.com/hyn2028/llm-cxr)|
+|LLM-Assisted Multi-Teacher Continual Learning for Surgical Visual Question Answering|[PDF](https://arxiv.org/abs/2402.16664)|[Code](https://github.com/yuyangdu01/LLM-CL-VQA)|
+|MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts|[PDF](https://arxiv.org/abs/2305.10799)|[Code](https://github.com/Qybc/MedBLIP)|
+|Open-ended medical visual question answering through prefix tuning of language models|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_70)|[Code](https://github.com/tjvsonsbeek/open-ended-medical-vqa)|
+|Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering|[PDF](https://arxiv.org/abs/2404.16192)|-|
+|An Effective Pre-trained Visual Encoder for Medical Visual Question Answering|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-46677-9_32)|-|
+|Interpretable medical image visual question answering via multi-modal relationship graph learning|[PDF](https://www.sciencedirect.com/science/article/pii/S1361841524002044)|[Code](https://github.com/Holipori/Medical-CXR-VQA)|
+|Medical knowledge-based network for Patient-oriented Visual Question Answering|[PDF](https://www.sciencedirect.com/science/article/pii/S0306457322003429)|[Code](https://github.com/cs-jerhuang/P-VQA)|
 
 ## KD in Medical image detection
 
