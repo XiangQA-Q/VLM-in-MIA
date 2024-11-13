@@ -16,7 +16,7 @@
 |FlexR: Few-shot Classification with Language Embeddings for Structured Reporting of Chest X-rays|[PDF](https://proceedings.mlr.press/v227/keicher24a.html)|-|
 |The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification|[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d599b81036fd1a3b3949b7d444f31082-Abstract-Conference.html)|[Code](https://github.com/miccaiif/TOP)|
 |Exploring low-resource medical image classification with weakly supervised prompt learning|[PDF](https://www.sciencedirect.com/science/article/pii/S0031320324000013)|-|
-|Self-supervised multi-modal training from uncurated images and reports enables monitoring AI in radiology|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002815)]|-|
+|Self-supervised multi-modal training from uncurated images and reports enables monitoring AI in radiology|[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002815)|-|
 |CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification|[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Lai_CARZero_Cross-Attention_Alignment_for_Radiology_Zero-Shot_Classification_CVPR_2024_paper.html)|[Code](https://github.com/laihaoran/CARZero)|
 |Multi-Label Generalized Zero Shot Chest Xray Classification By Combining Image-Text Information With Feature Disentanglement|[PDF](https://ieeexplore.ieee.org/abstract/document/10601163/)|-|
 |TieNet: Text-Image Embedding Network for Common Thorax Disease Classification and Reporting in Chest X-rays|[PDF](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_TieNet_Text-Image_Embedding_CVPR_2018_paper.html)|-|
