@@ -3,9 +3,9 @@
 ## VLM in Medical image diagnosis and classification
 |Paper|PDF|Code|
 |---|---|---|
-|ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification|[PDF(https://openaccess.thecvf.com/content/CVPR2024/html/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.html)]|[Code]()|
+|ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification|[PDF(https://openaccess.thecvf.com/content/CVPR2024/html/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.html)]|-|
 |BERTHop: An Effective Vision-and-Language Model for Chest X-ray Disease Diagnosis|[PDF(https://link.springer.com/chapter/10.1007/978-3-031-16443-9_69)]|[Code](https://github.com/monajati/BERTHop)|
-|TandemNet: Distilling Knowledge from Medical Images Using Diagnostic Reports as Optional Semantic References|[PDF(https://link.springer.com/chapter/10.1007/978-3-319-66179-7_37)]|[Code]()|
+|TandemNet: Distilling Knowledge from Medical Images Using Diagnostic Reports as Optional Semantic References|[PDF(https://link.springer.com/chapter/10.1007/978-3-319-66179-7_37)]|[-|
 |Pay attention to doctor–patient dialogues: Multi-modal knowledge graph attention image-text embedding for COVID-19 diagnosis|[PDF(https://www.sciencedirect.com/science/article/pii/S1566253521001159)]|[Code]()|
 |Text-Guided Foundation Model Adaptation for Pathological Image Classification|[PDF(https://link.springer.com/chapter/10.1007/978-3-031-43904-9_27)]|[Code](https://github.com/Yunkun-Zhang/CITE)|
 |Report-Concept Textual-Prompt Learning for Enhancing X-ray Diagnosis|[PDF(https://dl.acm.org/doi/abs/10.1145/3664647.3681568)]|[Code]()|
