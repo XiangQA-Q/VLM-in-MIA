@@ -25,7 +25,7 @@
 |CLIPath: Fine-tune CLIP with Visual Feature Fusion for Pathology Image Analysis Towards Minimizing Data Collection Efforts|[PDF](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/html/Lai_CLIPath_Fine-Tune_CLIP_with_Visual_Feature_Fusion_for_Pathology_Image_ICCVW_2023_paper.html)|-|
 
 
-## KD in Medical image segmentation
+## VLM in Medical image segmentation
 
 |Paper|PDF|Code|
 |---|---|---|
@@ -54,7 +54,7 @@
 |Med3DInsight: Enhancing 3D Medical Image Understanding with 2D Multi-Modal Large Language Models|[PDF](https://arxiv.org/abs/2403.05141)|[Code](https://github.com/Qybc/Med3DInsight)|
 
 
-## KD in Medical image report generation
+## VLM in Medical image report generation
 
 |Paper|PDF|Code|
 |---|---|---|
@@ -93,7 +93,7 @@
 |Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation|[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Bu_Instance-level_Expert_Knowledge_and_Aggregate_Discriminative_Attention_for_Radiology_Report_CVPR_2024_paper.html)|[Code](https://github.com/hnjzbss/EKAGen)|
 
 
-## KD in Medical image VQA
+## VLM in Medical image VQA
 
 |Paper|PDF|Code|
 |---|---|---|
@@ -114,7 +114,7 @@
 |Interpretable medical image visual question answering via multi-modal relationship graph learning|[PDF](https://www.sciencedirect.com/science/article/pii/S1361841524002044)|[Code](https://github.com/Holipori/Medical-CXR-VQA)|
 |Medical knowledge-based network for Patient-oriented Visual Question Answering|[PDF](https://www.sciencedirect.com/science/article/pii/S0306457322003429)|[Code](https://github.com/cs-jerhuang/P-VQA)|
 
-## KD in Medical image detection
+## VLM in Medical image detection
 
 |Paper|PDF|Code|
 |---|---|---|
@@ -126,22 +126,22 @@
 |MediCLIP: Adapting CLIP for Few-shot Medical Image Anomaly Detection|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_43)|[Code](https://github.com/cnulab/MediCLIP)|
 |CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios|[PDF](https://arxiv.org/abs/2404.15272)|-|
 
-## KD in Medical image generation
+## VLM in Medical image generation
 
 |Paper|PDF|Code|
 |---|---|---|
-|Medical image synthesis via fine-grained image-text alignment and anatomy-pathology prompting|[PDF]()|[Code]()|
-|Medsyn: Text-guided anatomy-aware synthesis of high-fidelity 3d ct images|[PDF]()|[Code]()|
-|Diffusion-based data augmentation for skin disease classification: Impact across original medical datasets to fully synthetic images|[PDF]()|[Code]()|
-|Vision-Language Generative Model for View-Specific Chest X-ray Generation|[PDF]()|[Code]()|
-|Chest-Diffusion: A Light-Weight Text-to-Image Model for Report-to-CXR Generation|[PDF]()|[Code]()|
-|Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains|[PDF]()|[Code]()|
-|A vision–language foundation model for the generation of realistic chest X-ray images|[PDF]()|[Code]()|
-|MedM2G:Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant|[PDF]()|[Code]()|
-|Controllable text-to-image synthesis for multi-modality MR images|[PDF]()|[Code]()|
-|Surgical Text-to-Image Generation|[PDF]()|[Code]()|
+|Medical image synthesis via fine-grained image-text alignment and anatomy-pathology prompting|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_23)|-|
+|Medsyn: Text-guided anatomy-aware synthesis of high-fidelity 3d ct images|[PDF](https://ieeexplore.ieee.org/abstract/document/10566053/)|[Code](https://github.com/batmanlab/MedSyn)|
+|Diffusion-based data augmentation for skin disease classification: Impact across original medical datasets to fully synthetic images|[PDF](https://ieeexplore.ieee.org/abstract/document/10566053/)|[Code](https://github.com/batmanlab/MedSyn)|
+|Vision-Language Generative Model for View-Specific Chest X-ray Generation|[PDF](https://proceedings.mlr.press/v248/lee24a.html)|[Code](https://github.com/ttumyche/UniXGen)|
+|Chest-Diffusion: A Light-Weight Text-to-Image Model for Report-to-CXR Generation|[PDF](https://ieeexplore.ieee.org/abstract/document/10635417/)|-|
+|Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains|[PDF](https://arxiv.org/abs/2210.04133)|-|
+|A vision–language foundation model for the generation of realistic chest X-ray images|[PDF](https://www.nature.com/articles/s41551-024-01246-y)|[Code](https://stanfordmlgroup.github.io/competitions/chexpert/)|
+|MedM2G:Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant|[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Zhan_MedM2G_Unifying_Medical_Multi-Modal_Generation_via_Cross-Guided_Diffusion_with_Visual_CVPR_2024_paper.html)|-|
+|Controllable text-to-image synthesis for multi-modality MR images|[PDF](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Controllable_Text-to-Image_Synthesis_for_Multi-Modality_MR_Images_WACV_2024_paper.html)|-|
+|Surgical Text-to-Image Generation|[PDF](https://arxiv.org/abs/2407.09230)|[Code](https://camma-public.github.io/endogen/)|
 
-## KD in Medical image large model
+## VLM in Medical image large model
 
 |Paper|PDF|Code|
 |---|---|---|
