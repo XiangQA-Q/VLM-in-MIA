@@ -145,26 +145,23 @@
 
 |Paper|PDF|Code|
 |---|---|---|
-|PRIOR: Prototype Representation Joint Learning from Medical Images and Reports|[PDF]()|[Code]()|
-|Enhancing medical vision-language contrastive learning via inter-matching relation modelling|[PDF]()|[Code]()|
-|Multi-task paired masking with alignment modeling for medical vision-language pre-training|[PDF]()|[Code]()|
-|MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning|[PDF]()|[Code]()|
-|Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning|[PDF]()|[Code]()|
-|DeViDe: Faceted medical knowledge for improved medical vision-language pre-training|[PDF]()|[Code]()|
-|Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining|[PDF]()|[Code]()|
-|MM-Retinal: Knowledge-Enhanced Foundational Pretraining with Fundus Image-Text Expertise|[PDF]()|[Code]()|
-|DeViDe: Faceted medical knowledge for improved medical vision-language pre-training|[PDF]()|[Code]()|
-|MM-Retinal: Knowledge-Enhanced Foundational Pretraining with Fundus Image-Text Expertise|[PDF]()|[Code]()|
-|Towards Medical Vision-Language Contrastive Pre-training via Study-Oriented Semantic Exploration|[PDF]()|[Code]()|
-|MITER: Medical Image–TExt joint adaptive pretRaining with multi-level contrastive learning|[PDF]()|[Code]()|
-|Continual self-supervised learning: Towards universal multi-modal medical data representation learning|[PDF]()|[Code]()|
-|UniDCP: Unifying Multiple Medical Vision-language Tasks via Dynamic Cross-modal Learnable Prompts|[PDF]()|[Code]()|
-|MedCLIP: Contrastive Learning from Unpaired Medical Images and Text|[PDF]()|[Code]()|
-|Improving Medical Vision-Language Contrastive Pretraining With Semantics-Aware Triage|[PDF]()|[Code]()|
-|Lvm-med: Learning large-scale self-supervised vision models for medical imaging via second-order graph matching|[PDF]()|[Code]()|
-|Unified Medical Image Pre-training in Language-Guided Common Semantic Space|[PDF]()|[Code]()|
-|M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models|[PDF]()|[Code]()|
-|Merlin: A Vision Language Foundation Model for 3D Computed Tomography|[PDF]()|[Code]()|
+|PRIOR: Prototype Representation Joint Learning from Medical Images and Reports|[PDF](http://openaccess.thecvf.com/content/ICCV2023/html/Cheng_PRIOR_Prototype_Representation_Joint_Learning_from_Medical_Images_and_Reports_ICCV_2023_paper.html)|[Code](https://github.com/QtacierP/PRIOR)|
+|Enhancing medical vision-language contrastive learning via inter-matching relation modelling|[PDF](https://arxiv.org/abs/2401.10501)|-|
+|Multi-task paired masking with alignment modeling for medical vision-language pre-training|[PDF](https://ieeexplore.ieee.org/abstract/document/10288259/)|-|
+|MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning|[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Li_MLIP_Enhancing_Medical_Visual_Representation_with_Divergence_Encoder_and_Knowledge-guided_CVPR_2024_paper.html)|[Code](https://github.com/gentlefress/MLIP)|
+|Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning|[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d925bda407ada0df3190df323a212661-Abstract-Conference.html)|[Code](https://github.com/HKU-MedAI/MGCA)|
+|DeViDe: Faceted medical knowledge for improved medical vision-language pre-training|[PDF](https://arxiv.org/abs/2404.03618)|-|
+|Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining|[PDF](https://arxiv.org/abs/2304.14204)|[Code](https://github.com/chenzcv7/MOTOR)|
+|MM-Retinal: Knowledge-Enhanced Foundational Pretraining with Fundus Image-Text Expertise|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_67)|[Code](https://github.com/lxirich/MM-Retinal)|
+|MITER: Medical Image–TExt joint adaptive pretRaining with multi-level contrastive learning|[PDF](https://www.sciencedirect.com/science/article/pii/S0957417423020286)|[Code](https://github.com/ZhuYi98/MITER)|
+|Continual self-supervised learning: Towards universal multi-modal medical data representation learning|[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Ye_Continual_Self-supervised_Learning_Towards_Universal_Multi-modal_Medical_Data_Representation_Learning_CVPR_2024_paper.html)|[Code](https://github.com/yeerwen/MedCoSS)|
+|UniDCP: Unifying Multiple Medical Vision-language Tasks via Dynamic Cross-modal Learnable Prompts|[PDF](https://ieeexplore.ieee.org/abstract/document/10526408/)|-|
+|MedCLIP: Contrastive Learning from Unpaired Medical Images and Text|[PDF](https://arxiv.org/abs/2210.10163)|[Code](https://github.com/RyanWangZf/MedCLIP)|
+|Improving Medical Vision-Language Contrastive Pretraining With Semantics-Aware Triage|[PDF](https://ieeexplore.ieee.org/abstract/document/10182304/)|[Code](https://github.com/liubo105/SAT)|
+|Lvm-med: Learning large-scale self-supervised vision models for medical imaging via second-order graph matching|[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/hash/58cc11cda2a2679e8af5c6317aed0af8-Abstract-Conference.html)|[Code](https://github.com/duyhominhnguyen/LVM-Med)|
+|Unified Medical Image Pre-training in Language-Guided Common Semantic Space|[PDF](https://link.springer.com/chapter/10.1007/978-3-031-73004-7_8)|-|
+|M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models|[PDF](https://arxiv.org/abs/2404.00578)|[Code](https://github.com/BAAI-DCAI/M3D)|
+|Merlin: A Vision Language Foundation Model for 3D Computed Tomography|[PDF](https://arxiv.org/abs/2406.06512)|-|
 
 
 
